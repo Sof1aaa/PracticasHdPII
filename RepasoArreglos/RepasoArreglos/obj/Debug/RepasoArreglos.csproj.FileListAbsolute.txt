@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\RepasoArreglos\RepasoArreglos\bin\Debug\RepasoArreglos.exe.config
+C:\Users\Usuario\source\repos\RepasoArreglos\RepasoArreglos\bin\Debug\RepasoArreglos.exe
+C:\Users\Usuario\source\repos\RepasoArreglos\RepasoArreglos\bin\Debug\RepasoArreglos.pdb
+C:\Users\Usuario\source\repos\RepasoArreglos\RepasoArreglos\obj\Debug\RepasoArreglos.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\RepasoArreglos\RepasoArreglos\obj\Debug\RepasoArreglos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\RepasoArreglos\RepasoArreglos\obj\Debug\RepasoArreglos.exe
+C:\Users\Usuario\source\repos\RepasoArreglos\RepasoArreglos\obj\Debug\RepasoArreglos.pdb
