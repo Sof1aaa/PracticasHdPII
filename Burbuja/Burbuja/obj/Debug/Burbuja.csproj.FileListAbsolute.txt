@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\Burbuja\Burbuja\obj\Debug\Burbuja.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Burbuja\Burbuja\obj\Debug\Burbuja.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Burbuja\Burbuja\bin\Debug\Burbuja.exe.config
+C:\Users\Usuario\source\repos\Burbuja\Burbuja\bin\Debug\Burbuja.exe
+C:\Users\Usuario\source\repos\Burbuja\Burbuja\bin\Debug\Burbuja.pdb
+C:\Users\Usuario\source\repos\Burbuja\Burbuja\obj\Debug\Burbuja.exe
+C:\Users\Usuario\source\repos\Burbuja\Burbuja\obj\Debug\Burbuja.pdb
