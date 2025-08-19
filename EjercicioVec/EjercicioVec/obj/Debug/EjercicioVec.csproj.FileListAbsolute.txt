@@ -1,0 +1,8 @@
+C:\Users\lodon\source\repos\EjercicioVec\EjercicioVec\bin\Debug\EjercicioVec.exe.config
+C:\Users\lodon\source\repos\EjercicioVec\EjercicioVec\bin\Debug\EjercicioVec.exe
+C:\Users\lodon\source\repos\EjercicioVec\EjercicioVec\bin\Debug\EjercicioVec.pdb
+C:\Users\lodon\source\repos\EjercicioVec\EjercicioVec\obj\Debug\EjercicioVec.csproj.AssemblyReference.cache
+C:\Users\lodon\source\repos\EjercicioVec\EjercicioVec\obj\Debug\EjercicioVec.csproj.CoreCompileInputs.cache
+C:\Users\lodon\source\repos\EjercicioVec\EjercicioVec\obj\Debug\EjercicioVec.exe
+C:\Users\lodon\source\repos\EjercicioVec\EjercicioVec\obj\Debug\EjercicioVec.pdb
+C:\Users\lodon\source\repos\EjercicioVec\EjercicioVec\obj\Debug\EjercicioVec.exe.config
