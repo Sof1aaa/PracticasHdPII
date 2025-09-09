@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\wform09092025\wform09092025\bin\Debug\wform09092025.exe.config
+C:\Users\Usuario\source\repos\wform09092025\wform09092025\bin\Debug\wform09092025.exe
+C:\Users\Usuario\source\repos\wform09092025\wform09092025\bin\Debug\wform09092025.pdb
+C:\Users\Usuario\source\repos\wform09092025\wform09092025\obj\Debug\wform09092025.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\wform09092025\wform09092025\obj\Debug\wform09092025.Form1.resources
+C:\Users\Usuario\source\repos\wform09092025\wform09092025\obj\Debug\wform09092025.Properties.Resources.resources
+C:\Users\Usuario\source\repos\wform09092025\wform09092025\obj\Debug\wform09092025.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\wform09092025\wform09092025\obj\Debug\wform09092025.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\wform09092025\wform09092025\obj\Debug\wform09092025.exe
+C:\Users\Usuario\source\repos\wform09092025\wform09092025\obj\Debug\wform09092025.pdb
