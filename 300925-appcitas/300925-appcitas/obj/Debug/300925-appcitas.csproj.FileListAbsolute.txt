@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\300925-appcitas\300925-appcitas\obj\Debug\300925-appcitas.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\300925-appcitas\300925-appcitas\obj\Debug\_300925_appcitas.Cita.resources
+C:\Users\Usuario\source\repos\300925-appcitas\300925-appcitas\obj\Debug\_300925_appcitas.Form1.resources
+C:\Users\Usuario\source\repos\300925-appcitas\300925-appcitas\obj\Debug\_300925_appcitas.Properties.Resources.resources
+C:\Users\Usuario\source\repos\300925-appcitas\300925-appcitas\obj\Debug\300925-appcitas.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\300925-appcitas\300925-appcitas\obj\Debug\300925-appcitas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\300925-appcitas\300925-appcitas\bin\Debug\300925-appcitas.exe.config
+C:\Users\Usuario\source\repos\300925-appcitas\300925-appcitas\bin\Debug\300925-appcitas.exe
+C:\Users\Usuario\source\repos\300925-appcitas\300925-appcitas\bin\Debug\300925-appcitas.pdb
+C:\Users\Usuario\source\repos\300925-appcitas\300925-appcitas\obj\Debug\300925-appcitas.exe
+C:\Users\Usuario\source\repos\300925-appcitas\300925-appcitas\obj\Debug\300925-appcitas.pdb
+C:\Users\Usuario\source\repos\300925-appcitas\300925-appcitas\obj\Debug\_300925_appcitas.Admin.resources
